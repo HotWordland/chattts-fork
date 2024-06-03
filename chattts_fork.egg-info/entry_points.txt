@@ -1,0 +1,2 @@
+[console_scripts]
+chattts = ChatTTS.cli:main
